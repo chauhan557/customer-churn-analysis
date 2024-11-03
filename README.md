@@ -1,4 +1,4 @@
-# customer-churn-analysis
+
 # Customer Churn Prediction
 
 This project aims to analyze and predict customer churn in a telecommunications company using machine learning. It explores various customer features, such as demographics, services subscribed, and billing information, to identify key factors influencing churn. 
